@@ -2,7 +2,17 @@
 
 A modern, performant blog skeleton built with Next.js 15, TypeScript, and Tailwind CSS. This project serves as a starting point for creating professional blogs with best practices for SEO, performance, and user experience.
 
-You can see this resume-blog at https://terryhunt.dev
+🧑‍💻 This site was built using this template: [terryhunt.dev](https://terryhunt.dev)
+
+## Who This Template Is For
+
+- Developers building personal portfolios or resume sites
+- Technical bloggers looking for a clean Next.js setup
+- Freelancers needing a fast, SEO-ready site
+
+
+> A free and open-source **Next.js 15 resume blog template** designed for developers. Built with performance, SEO, and accessibility in mind. Ideal for creating your **personal portfolio, tech blog, or developer landing page**.
+
 
 ## Features
 
